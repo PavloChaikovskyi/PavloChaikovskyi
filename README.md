@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PavloChaikovskyi
-- 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... TypeScript, React (Front-End)
+- 👀 I’m interested in DevOps 
+- 🌱 I’m currently learning  AWS Cloud, Docker, Terraform, Linux, Bash, Git
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... chaykovskiypavel@gmail.com
+- 📫 How to reach me chaykovskiypavel@gmail.com
 
 <!---
 PavloChaikovskyi/PavloChaikovskyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
