@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @PavloChaikovskyi
-- 👀 Junior DevOps Engeneer
+- 👀 Junior DevOps Engineer
 - 🌱 Key skills: Linux, AWS Cloud, Terraform, K8s, Docker, Jenkins, Ansible, Git, JavaScript, Python
